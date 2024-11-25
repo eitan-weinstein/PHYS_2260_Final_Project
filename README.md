@@ -1,0 +1,1 @@
+Created an iPython notebook to solve and simulate the  one-dimensional Schrodinger equation for a finite (Coulomb) barrier, to act as a simplified model of a nuclear fusion reaction between two nuclei to calculate the probability of fusion given the nuclear properties of both.
